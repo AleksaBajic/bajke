@@ -1,1 +1,1 @@
-# bajke
+Prvi pocetnicki boostrap dizajn.
